@@ -1,0 +1,6 @@
+/target
+.env
+bridge/node_modules
+bridge/auth_state
+bridge/package-lock.json
+
